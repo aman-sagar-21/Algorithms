@@ -1,2 +1,2 @@
 # Algorithms
-- To upload all the algorithms/codes i practice on certain topics i do while learning algorithms
+- all the algorithms/codes i practice on certain topics i come across while learning algorithms
