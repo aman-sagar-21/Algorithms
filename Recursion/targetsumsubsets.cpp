@@ -27,6 +27,9 @@ using namespace std;
 //sos: sum so far
 void printTarSumSubs(vector<int> a, int idx, int target, int sos, string asf){
 
+    if(sos>target) return;
+    
+
     if(idx==a.size()){
         if(sos==target){
             cout<<asf+"."<<endl;
