@@ -1,3 +1,6 @@
 *.exe
 /.vscode
 Fibonacci(tbd).cpp
+minSquares.cpp
+climbstairswithminmoves.cpp
+/Codechef
