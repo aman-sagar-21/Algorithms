@@ -15,6 +15,7 @@ int countBits(int n){
 int countBitsFast(int n){
     int ans = 0;
     while(n>0){
+        cout<<n<<endl;
         n = n & (n-1);
         ans++;
     }
